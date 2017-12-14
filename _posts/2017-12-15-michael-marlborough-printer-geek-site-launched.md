@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Marlborough, Printer Geek, Launches Site"
+title: "Michael Marlborough, Printer Whisperer, Launches Site"
 date: 2017-12-15
 ---
 
