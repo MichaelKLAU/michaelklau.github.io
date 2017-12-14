@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Michael Marlborough - Printer Geek
+title: Michael Marlborough - Printer Whisperer
 email: michael@kayell.com.au
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -32,3 +32,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: /blog/:year/:month/:day/:title
