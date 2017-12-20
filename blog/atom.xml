@@ -4,7 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
 	<title>Michael Marlborough's Blog</title>
+=======
+	<title>Hank Quinlan's Blog</title>
+>>>>>>> 949d3f7d4cf8d8e7a22365253d7798e060a5513d
 	<link href="http://michaelklau.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://michaelklau.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
